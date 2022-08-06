@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.IO;
 using RendObj;
-using IPrint;
 
 namespace Render_Prj
 {
